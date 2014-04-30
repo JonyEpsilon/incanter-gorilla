@@ -14,7 +14,7 @@ plots will not work; and you should add all annotations etc before viewing the p
 view it more than once!). The `chart-view` function takes `:plot-size` and `:aspect-ratio` options.
 
 You can see an example Gorilla worksheet
-[here](http://viewer.gorilla-repl.org/source=github&user=JonyEpsilon&repo=gorilla-test&path=ws/incanter.clj)
+[here](http://viewer.gorilla-repl.org/view.html?source=github&user=JonyEpsilon&repo=gorilla-test&path=ws/incanter.clj)
 that shows some Incanter plots.
 
 ## License
