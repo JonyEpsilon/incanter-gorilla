@@ -1,4 +1,4 @@
-(defproject incanter-gorilla "0.1.0-SNAPSHOT"
+(defproject incanter-gorilla "0.1.0"
   :description "Gorilla REPL integration for Incanter"
   :url "https://github.com/JonyEpsilon/incanter-gorilla"
   :license {:name "MIT"}
