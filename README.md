@@ -4,7 +4,7 @@
 
 ## Usage
 
-Add `[incanter-gorilla "0.1.0"]` to your project as well as the lein-gorilla plugin (see
+Add `[incanter-gorilla "0.1.0"]` to your project's dependencies. You will also need to have the lein-gorilla plugin in your project's plugin vector (see
 Gorilla REPL's [getting started](http://gorilla-repl.org/start.html) page for help with installing Gorilla).
 You can then `(use 'incanter-gorilla.render)` in your Gorilla worksheets.
 
